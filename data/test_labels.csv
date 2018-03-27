@@ -1,0 +1,15 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+input_file_0020.jpg,1275,1650,ssn,420,707,576,730
+input_file_0005.jpg,1275,1650,ssn,179,409,338,444
+input_file_0010.jpg,1275,1650,ssn,632,343,785,367
+input_file_0010.jpg,1275,1650,ssn,265,800,418,825
+input_file_0010.jpg,1275,1650,ssn,240,1455,385,1478
+input_file_0001.jpg,1275,1650,ssn,797,367,955,393
+input_file_0001.jpg,1275,1650,ssn,746,437,902,470
+input_file_0001.jpg,1275,1650,ssn,178,628,334,662
+input_file_0001.jpg,1275,1650,ssn,343,630,495,659
+input_file_0001.jpg,1275,1650,ssn,541,659,688,684
+input_file_0001.jpg,1275,1650,ssn,434,704,587,734
+input_file_0001.jpg,1275,1650,ssn,446,1160,596,1193
+input_file_0001.jpg,1275,1650,ssn,604,1163,756,1190
+input_file_0162.jpg,1275,1650,ssn,633,984,770,1012
