@@ -138,7 +138,7 @@ ENV/
 ehthumbs.db
 Thumbs.db
 output/
-ssd*
+# ssd*
 __MACOSX
 
 # Repo
